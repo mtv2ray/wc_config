@@ -17,3 +17,6 @@ bash <(curl -sL https://storage.googleapis.com/tiziblog/mt_setup.sh)
 https://github.com/OneSecure/ShadowAgentNotes/blob/master/telegram_proxy.md
 
 https://github.com/TelegramMessenger/MTProxy
+
+ridder 用的
+https://tizi.blog/259.html
