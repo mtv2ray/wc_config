@@ -15,3 +15,5 @@ bash <(curl -sL https://storage.googleapis.com/tiziblog/mt_setup.sh)
 
 这里是手动安装
 https://github.com/OneSecure/ShadowAgentNotes/blob/master/telegram_proxy.md
+
+https://github.com/TelegramMessenger/MTProxy
