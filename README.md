@@ -19,4 +19,4 @@ https://github.com/OneSecure/ShadowAgentNotes/blob/master/telegram_proxy.md
 https://github.com/TelegramMessenger/MTProxy
 
 ridder 用的
-https://tizi.blog/259.html
+https://tizi.blog/784.html
